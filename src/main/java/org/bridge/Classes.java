@@ -3,8 +3,6 @@ package org.bridge;
 public abstract class Classes {
     protected ChallengeRating cr;
     protected float danoBase;
-    protected float forca;
-    protected float magia;
 
 
     public Classes(float danoBase) {

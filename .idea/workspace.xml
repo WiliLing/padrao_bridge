@@ -4,22 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="82edd244-0026-4d89-929c-1c1ce03d72ac" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/bridge/ArchMage.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/bridge/ChallengeRating.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/bridge/Classes.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/bridge/Mago.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/bridge/Paladin.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/bridge/Warrior.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/org/bridge/MagoTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/org/bridge/WarriorTest.java" afterDir="false" />
+    <list default="true" id="82edd244-0026-4d89-929c-1c1ce03d72ac" name="Changes" comment="Mudança nome diagrama de classe">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/bridge/Classes.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/bridge/Classes.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -42,20 +29,23 @@
     <option name="stateVersion" value="1" />
   </component>
   <component name="ProjectId" id="2H17DPa7h0lVaf5XDWQ779oOrlV" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary": "JUnit5",
-    "com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit5": ""
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ASKED_ADD_EXTERNAL_FILES&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary&quot;: &quot;JUnit5&quot;,
+    &quot;com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit5&quot;: &quot;&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CreateTestDialog.Recents.Supers">
       <recent name="" />
@@ -128,6 +118,28 @@
       <option name="presentableId" value="Default" />
       <updated>1667440620147</updated>
     </task>
+    <task id="LOCAL-00001" summary="Criação e finalização projeto bridge">
+      <created>1667443342314</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1667443342314</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Mudança nome diagrama de classe">
+      <created>1667443402625</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1667443402625</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Mudança nome diagrama de classe">
+      <created>1667443407345</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1667443407345</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -140,5 +152,11 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+    <MESSAGE value="Criação e finalização projeto bridge" />
+    <MESSAGE value="Mudança nome diagrama de classe" />
+    <option name="LAST_COMMIT_MESSAGE" value="Mudança nome diagrama de classe" />
   </component>
 </project>
